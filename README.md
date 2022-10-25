@@ -3,7 +3,7 @@
 Introduce a common design pattern of AWS Serverless Services
 
 ### Architecture
-<img src="[http://....jpg](https://github.com/YifanBu/aws-serverless/blob/078a8aae7bd3daddc42722c1278d7ae40666afc3/aws-serverless.png)" width="200" height="200" />
+<img src="[http://....jpg](https://github.com/YifanBu/aws-serverless/blob/078a8aae7bd3daddc42722c1278d7ae40666afc3/aws-serverless.png)" width="" height="" />
 
 ### Services Used
 - [S3 - Server Static App](https://aws.amazon.com/s3/?nc2=h_m1)
