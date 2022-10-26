@@ -24,12 +24,18 @@ Handles Request-Response Cycle
 | DELETE | /sample-endpoint   | Remove Data        |
 
 ### Lambda
-
-
+1. Connecting Lambda Functions to API Gateway Endpoints
+2. Editing Lambda handler function
 ### Data Storage with DynamoDB
-
+1. Creating a Table in DynamoDB
+2. Connecting Lambda Functions with DynamoDB
 
 ### Authentication with Cognito
-
+1. Creating a Cognito User Pool
+2. Adding Cognito to a Frontend App
+3. Using a Cognito Authorizer with API Gateway
 
 ### Content Delivery & Hosting with S3, CloudFront and Route53
+1. Creating a S3 Bucket
+2. Setting up a CloudFront Distribution
+3. Registering and Connecting a Domain to the CloudFront Distribution
