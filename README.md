@@ -3,7 +3,8 @@
 Introduce a common design pattern of AWS Serverless Services
 
 ### Architecture
-https://github.com/YifanBu/aws-serverless/blob/078a8aae7bd3daddc42722c1278d7ae40666afc3/aws-serverless.png
+![aws-serverless](https://user-images.githubusercontent.com/31915035/198856187-e84a1fa1-27ff-40c9-b54f-39278e9e2f09.png)
+
 
 ### Services Used
 - [S3 - Server Static App](https://aws.amazon.com/s3/?nc2=h_m1)
